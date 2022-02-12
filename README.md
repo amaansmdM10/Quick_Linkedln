@@ -15,3 +15,9 @@ A simple Web based tool that will allow you to find everything about a linkedin 
 ### 
 ![image](https://user-images.githubusercontent.com/82018964/153717852-4ef47d49-b1cc-4a44-bfb4-9b73b03287f9.png)
 
+### Contact info :
+- Amaan smd : amaansmd9@gmail.com
+- SaadMaqsood : khansaad1275@gmail.com
+
+### Source API:
+- https://rapidapi.com/apis-world-apis-world-default/api/linkedin-profile-data/
