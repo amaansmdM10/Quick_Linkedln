@@ -24,7 +24,7 @@ fetch(url, {
 	"method": "GET",
 	"headers": {
 		"x-rapidapi-host": "linkedin-profile-data.p.rapidapi.com",
-		"x-rapidapi-key": "86d11fbde1mshc54062e47493302p10afe2jsnd6fe06c2c9d4"
+		"x-rapidapi-key": "3285d89234msh69d08e353d02fb5p1b981cjsn5d8f4130d851"
         /*eacb573e87msh1ace88ccd67be5ep13a6b9jsnb60e22c291c6*/
         /*86d11fbde1mshc54062e47493302p10afe2jsnd6fe06c2c9d4*/
 	}
